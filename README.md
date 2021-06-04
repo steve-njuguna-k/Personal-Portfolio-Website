@@ -16,4 +16,7 @@ Demo
 ----
 Here is the demo of the site: https://steve-njuguna-k.github.io/Personal-Portfolio-Website/
 
-© Steve Njuguna | MIT License
+© Steve Njuguna
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
