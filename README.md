@@ -1,16 +1,16 @@
-#Personal-Portfolio-Website
+Personal-Portfolio-Website
 ---------------------------
 This is a personal portfolio website showcasing a bit about myself. my education background, interests & hobbies. The site is written in HTML & CSS
 
-![](images/screenshot.png)
+![](https://github.com/steve-njuguna-k/Personal-Portfolio-Website/blob/master/images/Screenshot.png)
 
 Done by Steve Njuguna
 
-#Project Setup Instructions
+Project Setup Instructions
 ---------------------------
-Git clone the repository https://github.com/steve-njuguna-k/Personal-Portfolio-Website.git
-Open using any IDE of your choice
-Tweak as much as much as you want
+1) Git clone the repository https://github.com/steve-njuguna-k/Personal-Portfolio-Website.git
+2) Open using any IDE of your choice
+3) Tweak as much as much as you want
 
 Demo
 ----
