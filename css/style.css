@@ -37,3 +37,8 @@ body{
 .row{
   margin-top: 50px;
 }
+
+.img{
+  margin: 15px;
+  border-radius: 5px 50px 5px;
+}
