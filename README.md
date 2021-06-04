@@ -14,6 +14,6 @@ Project Setup Instructions
 
 Demo
 ----
-Here is the demo of the site:
+Here is the demo of the site: https://steve-njuguna-k.github.io/Personal-Portfolio-Website/
 
 © Steve Njuguna | MIT License
