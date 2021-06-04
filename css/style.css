@@ -1,5 +1,7 @@
 body{
   background-color: #000;
+  color: #fff;
+  font-family: Overpass, Helvetica, sans-serif;
 }
 
 .container{
@@ -35,10 +37,30 @@ body{
 }
 
 .row{
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .img{
-  margin: 15px;
   border-radius: 5px 50px 5px;
+}
+
+.hr-line{
+  width: 5%;
+  background-color: orangered;
+  border-color: orangered;
+  padding: 1px;
+}
+
+h4{
+  margin: 25px;
+}
+
+h4 span{
+  color: orangered;
+}
+
+h1{
+  font-size: 45px;
+  margin: 5px;
+  font-weight: 400;
 }
