@@ -65,6 +65,27 @@ h1{
   font-weight: 400;
 }
 
+.bx{
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  background-color: orangered;
+  border-color: #fff;
+  border-radius: 8px;
+  color: #fff;
+}
+.bx:hover{
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #fff;
+  border-color: #fff;
+  color: orangered;
+  border-radius: 8px;
+}
+
 hr{
   height: 0.5px;
   background-color: #fff;
